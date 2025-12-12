@@ -1,0 +1,2 @@
+def saluation():
+    return "Hello"
