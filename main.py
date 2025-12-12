@@ -1,2 +1,2 @@
 def saluation():
-    return "Hello"
+    return "Bonjour Amadou"
