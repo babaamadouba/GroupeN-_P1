@@ -24,7 +24,7 @@ if stock_restant < 10 :
 else:          
  print(f"Ok, après calcul, nous pouvons vous dire qu'il vous reste {stock_restant } produits dans votre stock.")
 
-
+# Je viens de faire un add sur mon terminal
 
 
 
